@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-sans: "Montserrat", sans-serif;
+}
+
+* {
+  font-family: "Montserrat", sans-serif !important;
+}
