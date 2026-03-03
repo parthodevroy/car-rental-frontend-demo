@@ -64,19 +64,19 @@ const Footer = () => {
               <li className="flex items-start gap-4 group">
                 <MapPin size={22} className="text-[#E11D48] mt-1 shrink-0" />
                 <span className="text-gray-400 text-[15px] leading-relaxed group-hover:text-white transition-colors">
-                  8626 11th Ave, Silver Spring, <br />MD 20903, USA
+                  Nilphamary,Rongpur, <br />MD 20903, Bangladesh
                 </span>
               </li>
               <li className="flex items-center gap-4 group">
                 <Mail size={22} className="text-[#E11D48] shrink-0" />
                 <a href="mailto:Siemenyit@gmail.com" className="text-gray-400 text-[15px] group-hover:text-white transition-colors">
-                  Siemenyit@gmail.com
+                  rpartho787@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-4 group">
                 <Phone size={22} className="text-[#E11D48] shrink-0" />
                 <span className="text-gray-400 text-[15px]">
-                  Phone: <a href="tel:+12405396279" className="text-white font-black ml-1 hover:text-[#E11D48] transition-colors tracking-tight text-lg">+12405396279 </a>
+                  Phone: <a href="tel:+12405396279" className="text-white font-black ml-1 hover:text-[#E11D48] transition-colors tracking-tight text-lg">+8801925033400 </a>
                 </span>
               </li>
             </ul>
