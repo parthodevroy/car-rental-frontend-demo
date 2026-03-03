@@ -16,7 +16,7 @@ const CarListingSection = () => {
     const [hoveredId, setHoveredId] = useState(null);
 
     useEffect(() => {
-        fetch("http://localhost:3000/cars")
+        fetch("https://car-rental-server-demo.vercel.app/cars")
             .then((res) => res.json())
             .then((data) => {
                 setCars(data);

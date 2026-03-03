@@ -47,11 +47,11 @@ const Navbar = () => {
         <div className="absolute left-0 top-0 h-full w-[22%] bg-white skew-x-[-30deg] -translate-x-10 z-10"></div>
         <div className="w-full h-full flex justify-end items-center px-10 relative z-20">
           <div className="flex items-center gap-6 text-[12px] font-medium opacity-90 tracking-wide">
-            <span>t@gmail.com</span>
+            <span>rpartho787@gmail.com</span>
             <span className="opacity-30">|</span>
             <span>Mon to Fri : 9:00am to 9:00pm</span>
             <span className="opacity-30">|</span>
-            <span>8626 11th Ave, Silver Spring, MD 20903, USA </span>
+            <span>Nilphamary,Rongpur,Bangladesh </span>
             <span className="opacity-30">|</span>
             <div className="flex items-center gap-2 ml-2">
               <img src="https://flagcdn.com/w20/us.png" alt="US" className="h-3.5 w-5 object-cover rounded-sm" />
@@ -106,7 +106,7 @@ const Navbar = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-[10px] text-gray-400 font-bold uppercase tracking-tighter leading-none mb-1">Call Us Today!</span>
-                <span className="text-[22px] font-[1000] text-[#1B2532] leading-none tracking-tight">+12405396279 </span>
+                <span className="text-[22px] font-[1000] text-[#1B2532] leading-none tracking-tight">+8801925033400 </span>
               </div>
             </div>
 

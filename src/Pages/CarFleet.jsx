@@ -10,7 +10,7 @@ const CarFleet = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch("http://localhost:3000/cars")
+        fetch("https://car-rental-server-demo.vercel.app/cars")
             .then((res) => res.json())
             .then((data) => {
                 setCars(data); 
