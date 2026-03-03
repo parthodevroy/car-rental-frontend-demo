@@ -1,7 +1,7 @@
 # 🚗 Partho-Cars-Rental – Premium Car Rental System (MERN Stack)
 Partho-CARS is a sophisticated, full-stack car rental application designed for a high-end user experience. It allows enthusiasts and travelers to browse an elite collection of Luxury, SUV, and Economy vehicles, view technical specifications, and send instant booking inquiries to the administration.
 
-**🔗 [Live Demo Link]** |() **🔗 [Backend Repository]**(https://github.com/parthodevroy/car-rental-server-demo)
+**🔗 [Live Demo Link]** |(https://phenomenal-muffin-e1aef9.netlify.app/) **🔗 [Backend Repository]**(https://github.com/parthodevroy/car-rental-server-demo)
 
 
 
