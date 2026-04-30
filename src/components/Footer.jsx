@@ -23,7 +23,7 @@ const Footer = () => {
     <footer className="bg-[#161f2c] text-white pt-20 pb-8">
       <div className="max-w-7xl mx-auto px-6 lg:px-10">
 
-        {/* --- 1. Top Logo Section --- */}
+        {/* --- 1. Top Logo Sectio --- */}
         <div className="flex flex-col items-center mb-16">
           <div className="z-30 flex items-center mb-6">
             <Link to="/" className="relative w-32 md:w-40 lg:w-48">
