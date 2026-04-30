@@ -1,7 +1,7 @@
 # 🚗 Partho-Cars-Rental – Premium Car Rental System (MERN Stack)
 Partho-CARS is a sophisticated, full-stack car rental application designed for a high-end user experience. It allows enthusiasts and travelers to browse an elite collection of Luxury, SUV, and Economy vehicles, view technical specifications, and send instant booking inquiries to the administration.
 
-**🔗 [Live Demo Link]** |(https://phenomenal-muffin-e1aef9.netlify.app/) **🔗 [Backend Repository]**(https://github.com/parthodevroy/car-rental-server-demo)
+**🔗 [Live Demo Link]** |(https://ornate-strudel-c20f6c.netlify.app/) **🔗 [Backend Repository]**(https://github.com/parthodevroy/car-rental-server-demo)
 
 
 
@@ -103,7 +103,7 @@ List required dependencies or major libraries:
 1. Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/parthodevroy/car-rental-frontend-demo
+git clone https://github.com/parthodevroy/car_rental_frontend_demo
 cd car-rental-frontend-demo
 npm install
 ```
@@ -129,4 +129,4 @@ Email: rpartho787@gmail.com
 
 LinkedIn: [linkedin.com/in/parthodevroy](https://bd.linkedin.com/in/partho-roy10566)
 
-Portfolio:[ Visit My Live Site](https://portfolio-1xa8.vercel.app/)
+Portfolio:[ Visit My Live Site](https://parthodevroy.vercel.app/)
